@@ -13,7 +13,6 @@
 
 ## 📁 Project Structure
 
-```bash
 /project-root
 ├── /frontend           # Next.js frontend
 │   └── /app
@@ -49,7 +48,7 @@ Select your current mood (e.g., happy, sad, etc.).
 Optionally fund your mood log (acts as a personal token of expression).
 Your mood entry is recorded on the Stellar blockchain.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License
 
