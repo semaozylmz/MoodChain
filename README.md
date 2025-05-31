@@ -27,8 +27,7 @@
 ## 🛠️ Installation
 
 1. Clone the repository
-git clone git clone https://github.com/semaozylmz/MoodChain.git
-
+git clone https://github.com/semaozylmz/MoodChain.git
 cd MoodChain
 
 3. Install frontend dependencies
