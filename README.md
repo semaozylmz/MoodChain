@@ -28,16 +28,17 @@
 
 1. Clone the repository
 git clone git clone https://github.com/semaozylmz/MoodChain.git
+
 cd MoodChain
 
-2. Install frontend dependencies
+3. Install frontend dependencies
 cd frontend
 npm install
 
-3. Start the development server
+4. Start the development server
 npm run dev
 
-4. Build the smart contract
+5. Build the smart contract
 cd contract
 cargo build --target wasm32-unknown-unknown --release
 
